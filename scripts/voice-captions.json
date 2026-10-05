@@ -1,0 +1,856 @@
+[
+  {
+    "text": "I've",
+    "startMs": 580,
+    "endMs": 820,
+    "timestampMs": 700,
+    "confidence": null
+  },
+  {
+    "text": " been",
+    "startMs": 820,
+    "endMs": 1080,
+    "timestampMs": 950,
+    "confidence": null
+  },
+  {
+    "text": " playing",
+    "startMs": 1080,
+    "endMs": 1240,
+    "timestampMs": 1160,
+    "confidence": null
+  },
+  {
+    "text": " way",
+    "startMs": 1240,
+    "endMs": 1440,
+    "timestampMs": 1340,
+    "confidence": null
+  },
+  {
+    "text": " too",
+    "startMs": 1440,
+    "endMs": 1620,
+    "timestampMs": 1530,
+    "confidence": null
+  },
+  {
+    "text": " many",
+    "startMs": 1620,
+    "endMs": 1820,
+    "timestampMs": 1720,
+    "confidence": null
+  },
+  {
+    "text": " Roblox",
+    "startMs": 1820,
+    "endMs": 2200,
+    "timestampMs": 2010,
+    "confidence": null
+  },
+  {
+    "text": " games",
+    "startMs": 2200,
+    "endMs": 2600,
+    "timestampMs": 2400,
+    "confidence": null
+  },
+  {
+    "text": " lately",
+    "startMs": 2600,
+    "endMs": 2880,
+    "timestampMs": 2740,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 2880,
+    "endMs": 3280,
+    "timestampMs": 3080,
+    "confidence": null
+  },
+  {
+    "text": " honestly,",
+    "startMs": 3280,
+    "endMs": 3460,
+    "timestampMs": 3370,
+    "confidence": null
+  },
+  {
+    "text": " I'm",
+    "startMs": 3600,
+    "endMs": 3840,
+    "timestampMs": 3720,
+    "confidence": null
+  },
+  {
+    "text": " kind",
+    "startMs": 3840,
+    "endMs": 4200,
+    "timestampMs": 4020,
+    "confidence": null
+  },
+  {
+    "text": " tired",
+    "startMs": 4200,
+    "endMs": 4400,
+    "timestampMs": 4300,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 4400,
+    "endMs": 4640,
+    "timestampMs": 4520,
+    "confidence": null
+  },
+  {
+    "text": " playing",
+    "startMs": 4640,
+    "endMs": 4820,
+    "timestampMs": 4730,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4820,
+    "endMs": 5040,
+    "timestampMs": 4930,
+    "confidence": null
+  },
+  {
+    "text": " same",
+    "startMs": 5040,
+    "endMs": 5340,
+    "timestampMs": 5190,
+    "confidence": null
+  },
+  {
+    "text": " stuff",
+    "startMs": 5340,
+    "endMs": 5780,
+    "timestampMs": 5560,
+    "confidence": null
+  },
+  {
+    "text": " over",
+    "startMs": 5780,
+    "endMs": 5960,
+    "timestampMs": 5870,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 5960,
+    "endMs": 6000,
+    "timestampMs": 5980,
+    "confidence": null
+  },
+  {
+    "text": " over",
+    "startMs": 6180,
+    "endMs": 6180,
+    "timestampMs": 6180,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 6660,
+    "endMs": 7120,
+    "timestampMs": 6890,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 7120,
+    "endMs": 7340,
+    "timestampMs": 7230,
+    "confidence": null
+  },
+  {
+    "text": " decided",
+    "startMs": 7340,
+    "endMs": 7500,
+    "timestampMs": 7420,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 7500,
+    "endMs": 7640,
+    "timestampMs": 7570,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 7640,
+    "endMs": 7780,
+    "timestampMs": 7710,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 7780,
+    "endMs": 8020,
+    "timestampMs": 7900,
+    "confidence": null
+  },
+  {
+    "text": " own",
+    "startMs": 8020,
+    "endMs": 8220,
+    "timestampMs": 8120,
+    "confidence": null
+  },
+  {
+    "text": " games",
+    "startMs": 8220,
+    "endMs": 8580,
+    "timestampMs": 8400,
+    "confidence": null
+  },
+  {
+    "text": " instead",
+    "startMs": 8580,
+    "endMs": 9080,
+    "timestampMs": 8830,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 9080,
+    "endMs": 9380,
+    "timestampMs": 9230,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 9380,
+    "endMs": 9600,
+    "timestampMs": 9490,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 9600,
+    "endMs": 9780,
+    "timestampMs": 9690,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 9780,
+    "endMs": 10080,
+    "timestampMs": 9930,
+    "confidence": null
+  },
+  {
+    "text": " first",
+    "startMs": 10080,
+    "endMs": 10340,
+    "timestampMs": 10210,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 10340,
+    "endMs": 10460,
+    "timestampMs": 10400,
+    "confidence": null
+  },
+  {
+    "text": " I'm",
+    "startMs": 10460,
+    "endMs": 10820,
+    "timestampMs": 10640,
+    "confidence": null
+  },
+  {
+    "text": " working",
+    "startMs": 10820,
+    "endMs": 11000,
+    "timestampMs": 10910,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 11100,
+    "endMs": 11220,
+    "timestampMs": 11160,
+    "confidence": null
+  },
+  {
+    "text": " It's",
+    "startMs": 11520,
+    "endMs": 12000,
+    "timestampMs": 11760,
+    "confidence": null
+  },
+  {
+    "text": " basically",
+    "startMs": 12000,
+    "endMs": 12220,
+    "timestampMs": 12110,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 12220,
+    "endMs": 12500,
+    "timestampMs": 12360,
+    "confidence": null
+  },
+  {
+    "text": " simple",
+    "startMs": 12500,
+    "endMs": 12740,
+    "timestampMs": 12620,
+    "confidence": null
+  },
+  {
+    "text": " game",
+    "startMs": 12740,
+    "endMs": 12920,
+    "timestampMs": 12830,
+    "confidence": null
+  },
+  {
+    "text": " where",
+    "startMs": 12920,
+    "endMs": 13060,
+    "timestampMs": 12990,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 13060,
+    "endMs": 13200,
+    "timestampMs": 13130,
+    "confidence": null
+  },
+  {
+    "text": " try",
+    "startMs": 13200,
+    "endMs": 13360,
+    "timestampMs": 13280,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 13360,
+    "endMs": 13580,
+    "timestampMs": 13470,
+    "confidence": null
+  },
+  {
+    "text": " land",
+    "startMs": 13580,
+    "endMs": 13760,
+    "timestampMs": 13670,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 13760,
+    "endMs": 13960,
+    "timestampMs": 13860,
+    "confidence": null
+  },
+  {
+    "text": " ball",
+    "startMs": 13960,
+    "endMs": 14200,
+    "timestampMs": 14080,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 14200,
+    "endMs": 14340,
+    "timestampMs": 14270,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 14340,
+    "endMs": 14480,
+    "timestampMs": 14410,
+    "confidence": null
+  },
+  {
+    "text": " cup",
+    "startMs": 14560,
+    "endMs": 14620,
+    "timestampMs": 14590,
+    "confidence": null
+  },
+  {
+    "text": " But",
+    "startMs": 14840,
+    "endMs": 15240,
+    "timestampMs": 15040,
+    "confidence": null
+  },
+  {
+    "text": " honestly,",
+    "startMs": 15240,
+    "endMs": 15260,
+    "timestampMs": 15250,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 15560,
+    "endMs": 15720,
+    "timestampMs": 15640,
+    "confidence": null
+  },
+  {
+    "text": " game",
+    "startMs": 15720,
+    "endMs": 15880,
+    "timestampMs": 15800,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 15880,
+    "endMs": 16180,
+    "timestampMs": 16030,
+    "confidence": null
+  },
+  {
+    "text": " nowhere",
+    "startMs": 16180,
+    "endMs": 16460,
+    "timestampMs": 16320,
+    "confidence": null
+  },
+  {
+    "text": " near",
+    "startMs": 16460,
+    "endMs": 16880,
+    "timestampMs": 16670,
+    "confidence": null
+  },
+  {
+    "text": " finished,",
+    "startMs": 16880,
+    "endMs": 17020,
+    "timestampMs": 16950,
+    "confidence": null
+  },
+  {
+    "text": " but",
+    "startMs": 17600,
+    "endMs": 17840,
+    "timestampMs": 17720,
+    "confidence": null
+  },
+  {
+    "text": " there",
+    "startMs": 17840,
+    "endMs": 18000,
+    "timestampMs": 17920,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 18000,
+    "endMs": 18180,
+    "timestampMs": 18090,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 18180,
+    "endMs": 18480,
+    "timestampMs": 18330,
+    "confidence": null
+  },
+  {
+    "text": " problem.",
+    "startMs": 18480,
+    "endMs": 18540,
+    "timestampMs": 18510,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 18660,
+    "endMs": 18760,
+    "timestampMs": 18710,
+    "confidence": null
+  },
+  {
+    "text": " don't",
+    "startMs": 18760,
+    "endMs": 18860,
+    "timestampMs": 18810,
+    "confidence": null
+  },
+  {
+    "text": " want",
+    "startMs": 18860,
+    "endMs": 18980,
+    "timestampMs": 18920,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 18980,
+    "endMs": 19160,
+    "timestampMs": 19070,
+    "confidence": null
+  },
+  {
+    "text": " build",
+    "startMs": 19160,
+    "endMs": 19340,
+    "timestampMs": 19250,
+    "confidence": null
+  },
+  {
+    "text": " them",
+    "startMs": 19340,
+    "endMs": 19520,
+    "timestampMs": 19430,
+    "confidence": null
+  },
+  {
+    "text": " by",
+    "startMs": 19520,
+    "endMs": 19880,
+    "timestampMs": 19700,
+    "confidence": null
+  },
+  {
+    "text": " myself",
+    "startMs": 19880,
+    "endMs": 19880,
+    "timestampMs": 19880,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 20500,
+    "endMs": 20720,
+    "timestampMs": 20610,
+    "confidence": null
+  },
+  {
+    "text": " want",
+    "startMs": 20720,
+    "endMs": 20980,
+    "timestampMs": 20850,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 20980,
+    "endMs": 21200,
+    "timestampMs": 21090,
+    "confidence": null
+  },
+  {
+    "text": " guys",
+    "startMs": 21200,
+    "endMs": 21380,
+    "timestampMs": 21290,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 21380,
+    "endMs": 21640,
+    "timestampMs": 21510,
+    "confidence": null
+  },
+  {
+    "text": " decide",
+    "startMs": 21640,
+    "endMs": 21960,
+    "timestampMs": 21800,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 21960,
+    "endMs": 22140,
+    "timestampMs": 22050,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 22140,
+    "endMs": 22380,
+    "timestampMs": 22260,
+    "confidence": null
+  },
+  {
+    "text": " yet",
+    "startMs": 22380,
+    "endMs": 23100,
+    "timestampMs": 22740,
+    "confidence": null
+  },
+  {
+    "text": " comment",
+    "startMs": 23100,
+    "endMs": 23440,
+    "timestampMs": 23270,
+    "confidence": null
+  },
+  {
+    "text": " leader",
+    "startMs": 23440,
+    "endMs": 24060,
+    "timestampMs": 23750,
+    "confidence": null
+  },
+  {
+    "text": " literally",
+    "startMs": 23580,
+    "endMs": 24060,
+    "timestampMs": 23820,
+    "confidence": null
+  },
+  {
+    "text": " anything.",
+    "startMs": 24060,
+    "endMs": 24300,
+    "timestampMs": 24180,
+    "confidence": null
+  },
+  {
+    "text": " Good",
+    "startMs": 24480,
+    "endMs": 24820,
+    "timestampMs": 24650,
+    "confidence": null
+  },
+  {
+    "text": " idea,",
+    "startMs": 24820,
+    "endMs": 25060,
+    "timestampMs": 24940,
+    "confidence": null
+  },
+  {
+    "text": " bad",
+    "startMs": 25180,
+    "endMs": 25540,
+    "timestampMs": 25360,
+    "confidence": null
+  },
+  {
+    "text": " idea,",
+    "startMs": 25540,
+    "endMs": 25940,
+    "timestampMs": 25740,
+    "confidence": null
+  },
+  {
+    "text": " completely",
+    "startMs": 26280,
+    "endMs": 26760,
+    "timestampMs": 26520,
+    "confidence": null
+  },
+  {
+    "text": " stupid.",
+    "startMs": 26760,
+    "endMs": 27040,
+    "timestampMs": 26900,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 27300,
+    "endMs": 27520,
+    "timestampMs": 27410,
+    "confidence": null
+  },
+  {
+    "text": " don't",
+    "startMs": 27520,
+    "endMs": 27740,
+    "timestampMs": 27630,
+    "confidence": null
+  },
+  {
+    "text": " care.",
+    "startMs": 27740,
+    "endMs": 28040,
+    "timestampMs": 27890,
+    "confidence": null
+  },
+  {
+    "text": " I'll",
+    "startMs": 28280,
+    "endMs": 28520,
+    "timestampMs": 28400,
+    "confidence": null
+  },
+  {
+    "text": " pick",
+    "startMs": 28520,
+    "endMs": 28760,
+    "timestampMs": 28640,
+    "confidence": null
+  },
+  {
+    "text": " one,",
+    "startMs": 28760,
+    "endMs": 28880,
+    "timestampMs": 28820,
+    "confidence": null
+  },
+  {
+    "text": " build",
+    "startMs": 29000,
+    "endMs": 29160,
+    "timestampMs": 29080,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 29160,
+    "endMs": 29380,
+    "timestampMs": 29270,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 29380,
+    "endMs": 29620,
+    "timestampMs": 29500,
+    "confidence": null
+  },
+  {
+    "text": " show",
+    "startMs": 29620,
+    "endMs": 29780,
+    "timestampMs": 29700,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 29780,
+    "endMs": 29900,
+    "timestampMs": 29840,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 29900,
+    "endMs": 30020,
+    "timestampMs": 29960,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 30020,
+    "endMs": 30180,
+    "timestampMs": 30100,
+    "confidence": null
+  },
+  {
+    "text": " next",
+    "startMs": 30180,
+    "endMs": 30500,
+    "timestampMs": 30340,
+    "confidence": null
+  },
+  {
+    "text": " video.",
+    "startMs": 30500,
+    "endMs": 30700,
+    "timestampMs": 30600,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 30860,
+    "endMs": 31060,
+    "timestampMs": 30960,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 31060,
+    "endMs": 31220,
+    "timestampMs": 31140,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 31220,
+    "endMs": 31320,
+    "timestampMs": 31270,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 31320,
+    "endMs": 31520,
+    "timestampMs": 31420,
+    "confidence": null
+  },
+  {
+    "text": " adding",
+    "startMs": 31520,
+    "endMs": 31840,
+    "timestampMs": 31680,
+    "confidence": null
+  },
+  {
+    "text": " first?",
+    "startMs": 31840,
+    "endMs": 32060,
+    "timestampMs": 31950,
+    "confidence": null
+  },
+  {
+    "text": " Let",
+    "startMs": 32180,
+    "endMs": 32240,
+    "timestampMs": 32210,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 32240,
+    "endMs": 32380,
+    "timestampMs": 32310,
+    "confidence": null
+  },
+  {
+    "text": " see",
+    "startMs": 32380,
+    "endMs": 32440,
+    "timestampMs": 32410,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 32440,
+    "endMs": 32560,
+    "timestampMs": 32500,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 32560,
+    "endMs": 32780,
+    "timestampMs": 32670,
+    "confidence": null
+  },
+  {
+    "text": " comments.",
+    "startMs": 32780,
+    "endMs": 33040,
+    "timestampMs": 32910,
+    "confidence": null
+  }
+]
